@@ -5,6 +5,9 @@ node_modules/
 build/
 dist/
 
+# secrets.json
+secrets.json
+
 # TypeScript cashe file
 *.tsbuildinfo
 
